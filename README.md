@@ -1,4 +1,5 @@
 # Welcome to My GitHub Profile! 🚀
+![Banner](aboutmephoto.png)
 
 ## 👨‍💻 About Me
 IT Student at ADA University
