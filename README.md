@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 🚀
-
+![Banner](photoaboutme.png)
 
 ## 👨‍💻 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7622F7&width=435&lines=IT+student+at+ADA+University.)](https://git.io/typing-svg)
