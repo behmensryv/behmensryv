@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 🚀
 
-<!--
-**behmensryv/behmensryv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+IT Student at ADA University
 
-Here are some ideas to get you started:
+- 📊 Interested in data-driven decision making
+- 🛠 Learning SQL, Python, and data processing
+- 📈 Exploring data visualization and ETL pipelines
+- 🚀 Building projects to improve analytical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Java
+- C
+- Python
+- SQL
+- Git & GitHub
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/bahmansariyev
+- Email: behmensariyev44@gmail.com
